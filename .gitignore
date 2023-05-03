@@ -1,0 +1,29 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Build output
+/dist
+/build
+/.next
+out
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# IDE and editor files
+/.vscode
+.idea
+*.sublime-*
+*.swp
+
+# Other
+.env
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
